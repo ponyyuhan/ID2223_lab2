@@ -1,6 +1,8 @@
 # ID2223_lab2
 
 We use Google Drive to save the dataset (arrow files) due to its need for high storage capacity. 
+Huggingface link(Allow the user to paste in the URL to a video, and transcribe what is
+spoken in the video):https://huggingface.co/spaces/Campfireman/whisper_lab2
 
 
 # Model-centric optimization
