@@ -2,6 +2,8 @@
 
 We use Google Drive to save the dataset (arrow files) due to its need for high storage capacity. 
 
+Google Drive Link: https://drive.google.com/drive/folders/1szILDIah7Xon9O5aR52mP6klospV4hPh?usp=share_link
+
 Huggingface link(Allow the user to paste in the URL to a video, and transcribe what is
 spoken in the video):https://huggingface.co/spaces/Campfireman/whisper_lab2
 
